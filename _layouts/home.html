@@ -12,9 +12,24 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Toute l'actualité de DossierSCO" }}</h2>
       {%- for post in site.posts -%}
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>{{ post.title | escape }}</h3>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}Janvier
+          {% when '2' %}Fevrier
+          {% when '3' %}Mars
+          {% when '4' %}Avril
+          {% when '5' %}Mai
+          {% when '6' %}Juin
+          {% when '7' %}Juillet
+          {% when '8' %}Août
+          {% when '9' %}Septembre
+          {% when '10' %}Oktobre
+          {% when '11' %}Novembre
+          {% when '12' %}Décembre
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
           <p><a href="{{ post.url | relative_url }}">Lire la suite...</a>
