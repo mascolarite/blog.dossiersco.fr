@@ -4,7 +4,7 @@ title: A propos
 permalink: /a-propos/
 ---
 
-# L'inscription au collège en quelques clics
+## L'inscription au collège en quelques clics
 
 Dossiersco est un outil libre et gratuit, développé par [l'Incubateur des services publics numériques](https://beta.gouv.fr/) et financé par le [ministère de l'Éducation nationale](https://www.education.gouv.fr/).
 
