@@ -4,13 +4,42 @@ title: A propos
 permalink: /a-propos/
 ---
 
-**DossierSCO** est un service public numérique facilitant l'inscription au collège. Il transforme une campagne de masse en accueil individualisé des familles.
+# L'inscription au collège en quelques clics
 
-Il est financé par [le Ministère de l'Education Nationale](https://education.gouv.fr) et développé par [l'incubateur des Services Publics Numériques](https://beta.gouv.fr), un des services du Premier Ministre.
+Dossiersco est un outil libre et gratuit, développé par [l'Incubateur des services publics numériques](https://beta.gouv.fr/) et financé par le [ministère de l'Éducation nationale](https://www.education.gouv.fr/).
 
-Nous sommes hébergés au [Lab 110 Bis](https://education.gouv.fr/110bis) du Ministère de l'Education Nationale. Venez nous rendre visite, <a href="https://calendar.google.com/calendar/embed?src=contact%40dossiersco.beta.gouv.fr&ctz=Europe%2FParis" target="_blank">notre agenda est le vôtre !</a>
+En proposant une plateforme d'inscription au collège en ligne, Dossiersco sert un double objectif : faciliter la vie des parents d'élèves et des personnels d'établissement scolaire
 
-La conception de ce service est pilotée par Pierre de Maulmont, intrapreneur et intendant du Lycée Arago (Paris).
+## Faciliter la vie des parents d'élèves et des personnels d'établissements scolaires
+
+Grâce à Dossiersco, la gestion des inscriptions est nettement simplifiée.
+
+**Les avantages pour les parents d'élèves**
+- Permettre aux parents d’inscrire leurs enfants et de télécharger des pièces justificatives sans avoir à se déplacer et en indiquant uniquement s'il y a des des éléments nouveaux dans leur dossier.
+
+**Les avantages pour le personnel des établissements scolaires**
+
+- Grâce à ce système, les agents peuvent récupérer les nouvelles pièces et données sans avoir à relire l’ensemble des dossiers ni à saisir dans la base SIECLE.
+- Ils peuvent consacrer davantage de temps à  l'accueil individualisé des familles.
+
+L’outil est conçu pour permettre une prise en main  rapide et intuitive.
+
+## La méthode Dossiersco, au plus près des usagers
+Dossiersco a été conçu par des personnels d'établissements scolaires, à l’intersection de bonnes pratiques observées dans différentes académies, grâce à la communauté [OpenAcadémie](https://openacademie.beta.gouv.fr/).
+
+L'outil est en amélioration continue. Son développement se construit à partir de l’expérience des utilisateurs, notamment à l'occasion des réunions [openlab](http://blog.dossiersco.fr/openlab/2019/04/11/construire-dossiersco.html).
+
+
+## Retours d'expérience
+
+Les familles ont plébiscité la démarche.
+L'année dernière, elles ont été invitées à donner une note de satisfaction 1 à 5 en fin de parcours : elles attribuent une note moyenne de 4,5.
+Les appréciations, très nombreuses, parlent d'elles-même : « bien », « pratique », « simple », « rapide », « merci ».
+
+## A propos
+DossierSCO est un service public numérique lauréat 2016 d'[Impulsions](https://www.education.gouv.fr/cid65743/impulsions-le-prix-de-l-action-administrative-innovante.html), le prix de la modernisation administrative.
+
+La conception de ce service est pilotée par Pierre de Maulmont, intrapreneur et intendant du Lycée Arago (Paris); en collaboration avec une équipe de l'Incubateur des services publics numériques.
 
 Vous pouvez suivre semaine après semaine la vie de l'équipe et les modifications apportées au service DossierSCO en lisant <a href="https://github.com/betagouv/dossiersco/blob/production/doc/journal.md" target="_blank">notre journal</a>.
 
@@ -19,3 +48,6 @@ Par souci de transparence, vous pouvez consulter <a href="/stats">les statistiqu
 Si vous souhaitez contribuer au développement du service, le code est ouvert et nous accueillerons avec grand plaisir vos <a href="https://github.com/betagouv/dossiersco/" target="_blank">Pull Requests</a>
 
 Pour toute question, n'hésitez pas à nous envoyer un mail à <a href="mailto:equipe@dossiersco.fr" target="_blank">equipe@dossiersco.fr</a>
+
+
+
