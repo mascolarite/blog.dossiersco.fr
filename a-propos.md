@@ -37,7 +37,6 @@ L'année dernière, elles ont été invitées à donner une note de satisfaction
 Les appréciations, très nombreuses, parlent d'elles-même : « bien », « pratique », « simple », « rapide », « merci ».
 
 ## A propos
-DossierSCO est un service public numérique lauréat 2016 d'[Impulsions](https://www.education.gouv.fr/cid65743/impulsions-le-prix-de-l-action-administrative-innovante.html), le prix de la modernisation administrative.
 
 La conception de ce service est pilotée par Pierre de Maulmont, intrapreneur et intendant du Lycée Arago (Paris); en collaboration avec une équipe de l'Incubateur des services publics numériques.
 
