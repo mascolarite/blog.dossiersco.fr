@@ -6,7 +6,7 @@ permalink: /a-propos/
 
 ## L'inscription au collège en quelques clics
 
-Dossiersco est un outil libre et gratuit, développé par [l'Incubateur des services publics numériques](https://beta.gouv.fr/) et financé par le [ministère de l'Éducation nationale](https://www.education.gouv.fr/).
+Dossiersco est un outil libre et gratuit, développé et financé par [le ministère de l'Éducation nationale](https://www.education.gouv.fr/) et [l'Incubateur des services publics numériques](https://beta.gouv.fr/).
 
 En proposant une plateforme d'inscription au collège en ligne, Dossiersco sert un double objectif : faciliter la vie des parents d'élèves et des personnels d'établissement scolaire
 
