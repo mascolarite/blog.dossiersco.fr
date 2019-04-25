@@ -42,7 +42,7 @@ La conception de ce service est pilotée par Pierre de Maulmont, intrapreneur et
 
 Vous pouvez suivre semaine après semaine la vie de l'équipe et les modifications apportées au service DossierSCO en lisant <a href="https://github.com/betagouv/dossiersco/blob/production/doc/journal.md" target="_blank">notre journal</a>.
 
-Par souci de transparence, vous pouvez consulter <a href="/stats">les statistiques d'usage</a> de DossierSCO.
+Par souci de transparence, vous pouvez consulter [les statistiques d'usage](https://dossiersco.fr/stats) de DossierSCO.
 
 Si vous souhaitez contribuer au développement du service, le code est ouvert et nous accueillerons avec grand plaisir vos <a href="https://github.com/betagouv/dossiersco/" target="_blank">Pull Requests</a>
 
