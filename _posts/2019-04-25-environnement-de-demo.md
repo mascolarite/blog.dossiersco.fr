@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Faire une démonstration en toute quiétude"
+title:  "Expérimenter DossierSCO en toute quiétude"
 date:   2019-04-11 12:17:47 +0200
 categories: demo
 ---
