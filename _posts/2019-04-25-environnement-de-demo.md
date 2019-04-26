@@ -7,7 +7,7 @@ categories: demo
 
 - Vous êtes un agent d'EPLE et avez envie de montrer DossierSCO aux parents d'élèves ?
 - Vous êtes un agent d'EPLE et aimeriez vous mettre dans la peau d'un parent d'élève pour connaitre les écrans qui lui sont présentés ?
-- Bref, vous aimeriez jouer avec DossierSCO sans altérer les données de votre établissement pour les besoins d'une démonstration ?
+- Bref, vous aimeriez jouer avec DossierSCO sans intégrer les données de votre établissement pour les besoins d'une démonstration ?
 
 Vous êtes plusieurs à nous avoir demandé un environnement de démonstration, sorte de bac à sable pour jouer avec DossierSCO. C'est avec plaisir que nous vous annonçons qu'un environnement de démonstration est désormais disponible à cette adresse : [https://demo.dossiersco.fr](https://demo.dossiersco.fr). A noter que les données utilisées sont inventées. Elles ressemblent à des données réelles mais en aucun cas ne le sont. Elles sont supprimées et recréées régulièrement.
 
