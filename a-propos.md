@@ -10,7 +10,9 @@ Dossiersco est un outil libre et gratuit, développé et financé par [le minist
 
 En proposant une plateforme d'inscription au collège en ligne, Dossiersco sert un double objectif : faciliter la vie des parents d'élèves et des personnels d'établissement scolaire
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hdAvpYJXQ5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="player"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=PL6REEwt5I78o30sDwUNIbe5jr9-7KNvnW&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Faciliter la vie des parents d'élèves et des personnels d'établissements scolaires
 
@@ -49,6 +51,3 @@ Par souci de transparence, vous pouvez consulter [les statistiques d'usage](http
 Si vous souhaitez contribuer au développement du service, le code est ouvert et nous accueillerons avec grand plaisir vos <a href="https://github.com/betagouv/dossiersco/" target="_blank">Pull Requests</a>
 
 Pour toute question, n'hésitez pas à nous envoyer un mail à <a href="mailto:equipe@dossiersco.fr" target="_blank">equipe@dossiersco.fr</a>
-
-
-
