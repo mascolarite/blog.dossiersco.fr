@@ -10,6 +10,8 @@ Dossiersco est un outil libre et gratuit, développé et financé par [le minist
 
 En proposant une plateforme d'inscription au collège en ligne, Dossiersco sert un double objectif : faciliter la vie des parents d'élèves et des personnels d'établissement scolaire
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdAvpYJXQ5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Faciliter la vie des parents d'élèves et des personnels d'établissements scolaires
 
 Grâce à Dossiersco, la gestion des inscriptions est nettement simplifiée.
